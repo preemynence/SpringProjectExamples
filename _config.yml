@@ -3,8 +3,8 @@ title: Spring By Examples Blog
 header-img: img/home-bg.jpg
 email: preemynence@gmail.com
 description: "This is our place where we share the expertise and knowledge we acquired."
-baseurl: "SpringProjectExamples/"
-url: "https://github.com/preemynence/"
+baseurl: ""
+url: ""
 twitter_username: preemynence
 github_username:  preemynence
 # facebook_username:  IronSummitMedia
@@ -15,3 +15,9 @@ highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package_mine.json","README.md"]
+
+
+
+http://preemynence.github.io/SpringProjectExamples/./css/clean-blog.css
+
+http://preemynence.github.io/SpringProjectExamples/css/clean-blog.css
