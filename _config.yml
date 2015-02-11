@@ -15,9 +15,3 @@ highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package_mine.json","README.md"]
-
-
-
-http://preemynence.github.io/SpringProjectExamples/./css/clean-blog.css
-
-http://preemynence.github.io/SpringProjectExamples/css/clean-blog.css
