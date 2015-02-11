@@ -3,8 +3,8 @@ title: Spring By Examples Blog
 header-img: img/home-bg.jpg
 email: preemynence@gmail.com
 description: "This is our place where we share the expertise and knowledge we acquired."
-baseurl: ""
-url: ""
+baseurl: /SpringProjectExamples
+url: "http://preemynence.github.io"
 twitter_username: preemynence
 github_username:  preemynence
 # facebook_username:  IronSummitMedia
